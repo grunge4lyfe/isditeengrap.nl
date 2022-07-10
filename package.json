@@ -1,0 +1,28 @@
+{
+  "name": "@delightedcat/isditeengrap.nl",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delightedcat/isditeengrap.nl.git"
+  },
+  "author": "DelightedCat",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/delightedcat/isditeengrap.nl/issues"
+  },
+  "homepage": "https://github.com/delightedcat/isditeengrap.nl#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
