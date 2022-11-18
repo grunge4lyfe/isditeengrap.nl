@@ -1,5 +1,5 @@
 {
-  "name": "@delightedcat/isditeengrap.nl",
+  "name": "@grunge4lyfe/isditeengrap.nl",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/delightedcat/isditeengrap.nl.git"
+    "url": "git+https://github.com/grunge4lyfe/isditeengrap.nl.git"
   },
-  "author": "DelightedCat",
+  "author": "grunge4lyfe",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/delightedcat/isditeengrap.nl/issues"
+    "url": "https://github.com/grunge4lyfe/isditeengrap.nl/issues"
   },
-  "homepage": "https://github.com/delightedcat/isditeengrap.nl#readme",
+  "homepage": "https://github.com/grunge4lyfe/isditeengrap.nl#readme",
   "dependencies": {
     "dotenv": "^16.0.1",
     "ejs": "^3.1.8",
