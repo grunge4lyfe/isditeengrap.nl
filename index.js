@@ -10,11 +10,7 @@ app.set('view engine', 'ejs');
 app.use(express.static('public'));
 
 app.get('/', (req, res) => {
-    const yes = Math.floor(Math.random() * 2) == 0;
-
-    res.render('index', {
-        yes: yes
-    });
+    res.render('index', { result: Math.random() < 0.5 });
 });
 
 app.listen(port, () => {
